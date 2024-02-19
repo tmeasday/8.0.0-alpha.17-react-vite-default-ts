@@ -51,4 +51,4 @@ export const Small: Story = {
   },
 };
 
-throw new Error('foo');
+// throw new Error('foo');
